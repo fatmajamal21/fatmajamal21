@@ -9,7 +9,6 @@
 </h3>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F7B42C&center=true&vCenter=true&width=500&lines=FATMA+J.+ESLYEH;Software+Engineer;Full-Stack+Web+Developer;UI%2FUX+Designer;Data+Management+Expert" />
   <br/>
   <img src="https://img.shields.io/badge/GPA-89.23%25-brightgreen?style=for-the-badge&logo=bookstack&color=0f172a&labelColor=gold" />
   <img src="https://img.shields.io/badge/AL-AZHAR%20UNIVERSITY-GAZA-0a2f44?style=for-the-badge&logo=google-scholar" />
@@ -36,7 +35,7 @@
 
 <div align="center">
   
-| 🎓 | **Software Engineering Student** | GPA: <b>88.63%</b> |
+| 🎓 | **Software Engineering Graduate** | GPA: <b>88.63%</b> |
 |---|---|---|
 | 💻 | **Full-Stack Developer** | Laravel • PHP • MySQL |
 | 🎨 | **UI/UX Designer** | Figma • Adobe XD |
@@ -61,7 +60,7 @@
 
 - Backend Development – Laravel  
 - Frontend Development
-- - UI/UX Design – Adobe XD  
+-  UI/UX Design – Adobe XD  
 - Digital Marketing  
 
 ---
