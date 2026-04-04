@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=500&color=F7B42C&center=true&vCenter=true&width=550&lines=💻+Full-Stack+Developer;🎨+UI%2FUX+Designer;🚀Digital Marketing;⚡+Problem+Solver;🔥+Laravel+Expert" />
+
 </h3>
 
 <div align="center">
