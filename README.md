@@ -135,32 +135,33 @@ Coming Soon 🔥
 ---
 
 ## 📫 Connect With Me
+## 📫 Let's Stay Connected
 
 <div align="center">
 
 <!-- Email -->
-<a href="mailto:jfatma666@gmail.com">
-  <img src="https://img.shields.io/badge/📧 Email Me-Drop a message-red?style=for-the-badge" />
+<a href="mailto:your-email@example.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-📧%20Send%20Me%20a%20Message-red?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
 <!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/fatma-jamal-08516b251/">
-  <img src="https://img.shields.io/badge/💼 LinkedIn-Let's Connect-blue?style=for-the-badge" />
+<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-💼%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 <!-- GitHub -->
-<a href="https://github.com/fatmajamal21">
-  <img src="https://img.shields.io/badge/💻 GitHub-View Projects-black?style=for-the-badge" />
+<a href="https://github.com/fatmajamal21" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-💻%20Check%20My%20Projects-black?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <!-- WhatsApp -->
-<a href="https://wa.me/972598186099">
-  <img src="https://img.shields.io/badge/💬 WhatsApp-Chat Now-green?style=for-the-badge" />
+<a href="https://wa.me/your-number" target="_blank">
+  <img src="https://img.shields.io/badge/WhatsApp-💬%20Chat%20With%20Me-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
 
-<!-- Portfolio (اختياري) -->
-<a href="#">
-  <img src="https://img.shields.io/badge/🌐 Portfolio-Coming Soon-orange?style=for-the-badge" />
+<!-- Portfolio -->
+<a href="#" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-🌐%20Coming%20Soon-orange?style=for-the-badge&logo=internet-explorer&logoColor=white" />
 </a>
 
 </div>
