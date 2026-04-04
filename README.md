@@ -1,4 +1,16 @@
 <h1 align="center">Hi 👋, I'm Fatma Al-Zahraa</h1>
+<div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=500&color=F7B42C&center=true&vCenter=true&width=500&lines=FATMA+J.+ESLYEH;Software+Engineer;Full-Stack+Web+Developer;UI%2FUX+Designer;Data+Management+Expert" alt="Typing Animation" />
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/GPA-89.25%25-brightgreen?style=for-the-badge&logo=bookstack&color=0f172a&labelColor=gold" />
+  <img src="https://img.shields.io/badge/AL-AZHAR%20UNIVERSITY-GAZA-0a2f44?style=for-the-badge&logo=google-scholar" />
+  <img src="https://img.shields.io/badge/Code-php%20%7C%20laravel%20%7C%20mysql-777bb4?style=for-the-badge&logo=laravel" />
+  <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=for-the-badge&logo=git" />
+  
+</div>
 <h3 align="center">💻 Full-Stack Developer | 🎨 UI/UX Designer | 🚀 Future Tech Leader</h3>
 
 ---
