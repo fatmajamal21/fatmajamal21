@@ -54,39 +54,3 @@
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 </p>
-
----
-## 📊 إحصائياتي على GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fatmaeslyeh&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7B42C&icon_color=F7B42C" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmaeslyeh&theme=radical&hide_border=true&background=0d1117&ring=F7B42C&fire=F7B42C&currStreakLabel=F7B42C" width="48%" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmaeslyeh&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F7B42C" width="45%" />
-</div>
-
----
-
-## ⚙️ تقنياتي السحرية
-
-```yaml
-backend:
-  - PHP (Laravel)
-  - RESTful APIs
-  - Blade Templating
-
-frontend:
-  - HTML5, CSS3, JavaScript
-  - UI/UX: Figma, Adobe XD
-
-database:
-  - MySQL
-  - Data Modeling & Optimization
-
-tools:
-  - Git & GitHub
-  - Digital Marketing Basics
-  - Problem Solving & System Thinking
-<p align="center">✨ “Code. Design. Impact.” ✨</p>
