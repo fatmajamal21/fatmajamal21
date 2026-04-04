@@ -5,9 +5,12 @@
 </h1>
 
 <h3 align="center">
-
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=22&duration=3000&pause=500&color=F7B42C&center=true&vCenter=true&width=500&lines=Full-Stack+Developer;UI%2FUX+Designer;Laravel+Specialist;Problem+Solver;Open+to+Work" />
 </h3>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fatmajamal21&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fatmajamal21&layout=compact&theme=radical" />
+</p>
 <div align="center">
   <br/>
   <img src="https://img.shields.io/badge/GPA-89.23%25-brightgreen?style=for-the-badge&logo=bookstack&color=0f172a&labelColor=gold" />
@@ -87,12 +90,17 @@ Laravel + JS<br/>
 Coming Soon 🔥
 </td>
 <td align="center">
-<b>🛍️ E-commerce</b><br/>
+<b>📊 Data Dashboard</b><br/>
 Laravel + JS<br/>
 Coming Soon 🔥
 </td>
 <td align="center">
-<b>🛍️ E-commerce</b><br/>
+<b>🌐 Portfolio Website</b><br/>
+Laravel + JS<br/>
+Coming Soon 🔥
+</td>
+<td align="center">
+<b>🌐 Portfolio Website</b><br/>
 Laravel + JS<br/>
 Coming Soon 🔥
 </td>
@@ -146,7 +154,7 @@ Coming Soon 🔥
 </a>
 
 <!-- WhatsApp -->
-<a href="https://wa.me/+972 598 186 099">
+<a href="https://wa.me/972598186099">
   <img src="https://img.shields.io/badge/💬 WhatsApp-Chat Now-green?style=for-the-badge" />
 </a>
 
