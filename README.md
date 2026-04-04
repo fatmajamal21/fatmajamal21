@@ -5,7 +5,7 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=500&color=F7B42C&center=true&vCenter=true&width=550&lines=💻+Full-Stack+Developer;🎨+UI%2FUX+Designer;🚀+Future+Tech+Leader;⚡+Problem+Solver;🔥+Laravel+Expert" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=24&duration=3000&pause=500&color=F7B42C&center=true&vCenter=true&width=550&lines=💻+Full-Stack+Developer;🎨+UI%2FUX+Designer;🚀Digital Marketing;⚡+Problem+Solver;🔥+Laravel+Expert" />
 </h3>
 
 <div align="center">
@@ -36,7 +36,7 @@
 
 <div align="center">
   
-| 🎓 | **Software Engineering Student** | GPA: <b>89.23%</b> |
+| 🎓 | **Software Engineering Student** | GPA: <b>88.63%</b> |
 |---|---|---|
 | 💻 | **Full-Stack Developer** | Laravel • PHP • MySQL |
 | 🎨 | **UI/UX Designer** | Figma • Adobe XD |
@@ -59,9 +59,9 @@
 
 ## 🏆 Certifications
 
-- UI/UX Design – Adobe XD  
 - Backend Development – Laravel  
-- Frontend Development  
+- Frontend Development
+- - UI/UX Design – Adobe XD  
 - Digital Marketing  
 
 ---
@@ -87,6 +87,16 @@ Coming Soon 🔥
 Laravel + JS<br/>
 Coming Soon 🔥
 </td>
+<td align="center">
+<b>🛍️ E-commerce</b><br/>
+Laravel + JS<br/>
+Coming Soon 🔥
+</td>
+<td align="center">
+<b>🛍️ E-commerce</b><br/>
+Laravel + JS<br/>
+Coming Soon 🔥
+</td>
 </tr>
 </table>
 
@@ -95,20 +105,87 @@ Coming Soon 🔥
 ## 📈 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=fatmajamal21&show_icons=true&theme=radical" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmajamal21&theme=radical" />
 </p>
 
 ---
+---
 
-## 🎯 Goals
+## 🎯 My Goals
 
-```yaml
-goals:
-  - Become Full-Stack Expert
-  - Build Real Projects
-  - Contribute Open Source
-  - Get Internship
- 📫 Connect With Me
-<p align="center"> <a href="mailto:jfatma666@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://github.com/fatmajamal21"> <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://linkedin.com/in/fatma-eslyeh"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://twitter.com/fatmaeslyeh"> <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/> </a> <a href="https://www.facebook.com/fatma.eslyeh"> <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/> </a> <a href="https://www.instagram.com/fatmaeslyeh"> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </p>
-<p align="center"> ✨ Thanks for visiting ✨ </p> ```
+<div align="center">
+
+🔥 Become a **Professional Full-Stack Developer** with strong backend expertise  
+🚀 Build scalable and impactful web applications  
+🌍 Work remotely with global tech teams  
+💡 Turn ideas into real-world digital products  
+📊 Master **Data Systems & Optimization**  
+🎨 Create beautiful and user-friendly UI/UX experiences  
+🏆 Keep learning, building, and growing every day  
+
+</div>
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<!-- Email -->
+<a href="mailto:jfatma666@gmail.com">
+  <img src="https://img.shields.io/badge/📧 Email Me-Drop a message-red?style=for-the-badge" />
+</a>
+
+<!-- LinkedIn -->
+<a href="https://www.linkedin.com/in/fatma-jamal-08516b251/">
+  <img src="https://img.shields.io/badge/💼 LinkedIn-Let's Connect-blue?style=for-the-badge" />
+</a>
+
+<!-- GitHub -->
+<a href="https://github.com/fatmajamal21">
+  <img src="https://img.shields.io/badge/💻 GitHub-View Projects-black?style=for-the-badge" />
+</a>
+
+<!-- WhatsApp -->
+<a href="https://wa.me/+972 598 186 099">
+  <img src="https://img.shields.io/badge/💬 WhatsApp-Chat Now-green?style=for-the-badge" />
+</a>
+
+<!-- Portfolio (اختياري) -->
+<a href="#">
+  <img src="https://img.shields.io/badge/🌐 Portfolio-Coming Soon-orange?style=for-the-badge" />
+</a>
+
+</div>
+
+---
+
+## ⚡ Let's Collaborate
+
+<div align="center">
+
+💼 Available for freelance & remote work  
+🤝 Open to collaborations and team projects  
+📩 Feel free to reach out anytime  
+
+</div>
+
+---
+
+## 💖 Support My Work
+
+<div align="center">
+
+⭐ Star my repositories if you find them useful  
+🔁 Share my work with others  
+💬 Let's grow together in tech  
+
+</div>
+
+---
+
+<h3 align="center">🔥 Thanks for visiting my profile 🔥</h3>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="250px"/>
+</p>
