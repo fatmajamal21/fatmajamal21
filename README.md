@@ -18,17 +18,6 @@
 
 ---
 
-## ✨ Welcome to My Digital Universe
-
-<p align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="50px" />
-  <img src="https://media3.giphy.com/media/ln7z2eWriiQAllfVcn/200w.webp" width="50px" />
-  <img src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" width="50px" />
-  <img src="https://i.giphy.com/media/eNAsjO55tPbgaor7ma/200w.webp" width="50px" />
-  <img src="https://i.giphy.com/media/VdoIFLsMIlwzfKD520/200w.webp" width="50px" />
-</p>
-
----
 
 ## 🌟 Who Am I?
 
