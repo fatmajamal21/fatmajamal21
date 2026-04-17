@@ -105,15 +105,6 @@ Coming Soon 🔥
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=fatmajamal21&theme=radical" />
-</p>
-
----
----
-
 ## 🎯 My Goals
 
 <div align="center">
@@ -125,64 +116,6 @@ Coming Soon 🔥
 📊 Master **Data Systems & Optimization**  
 🎨 Create beautiful and user-friendly UI/UX experiences  
 🏆 Keep learning, building, and growing every day  
-
-</div>
-
----
-
-## 📫 Connect With Me
-## 📫 Let's Stay Connected
-
-<div align="center">
-
-<!-- Email -->
-<a href="mailto:your-email@example.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-📧%20Send%20Me%20a%20Message-red?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-
-<!-- LinkedIn -->
-<a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-💼%20Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
-<!-- GitHub -->
-<a href="https://github.com/fatmajamal21" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-💻%20Check%20My%20Projects-black?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<!-- WhatsApp -->
-<a href="https://wa.me/your-number" target="_blank">
-  <img src="https://img.shields.io/badge/WhatsApp-💬%20Chat%20With%20Me-green?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</a>
-
-<!-- Portfolio -->
-<a href="#" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-🌐%20Coming%20Soon-orange?style=for-the-badge&logo=internet-explorer&logoColor=white" />
-</a>
-
-</div>
-
----
-
-## ⚡ Let's Collaborate
-
-<div align="center">
-
-💼 Available for freelance & remote work  
-🤝 Open to collaborations and team projects  
-📩 Feel free to reach out anytime  
-
-</div>
-
----
-
-## 💖 Support My Work
-
-<div align="center">
-
-⭐ Star my repositories if you find them useful  
-🔁 Share my work with others  
-💬 Let's grow together in tech  
 
 </div>
 
